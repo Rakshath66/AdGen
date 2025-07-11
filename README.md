@@ -205,7 +205,7 @@ MIT © [Rakshath U Shetty](https://github.com/Rakshath66)
 ```
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 ```
-Connect on LinkedIn [Rakshath](https://www.linkedin.com/in/rakshathushetty/)
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/rakshathushetty/)
 
 ---
 
