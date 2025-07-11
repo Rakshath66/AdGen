@@ -205,6 +205,7 @@ MIT © [Rakshath U Shetty](https://github.com/Rakshath66)
 ```
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 ```
+Connect on LinkedIn [Rakshath](https://www.linkedin.com/in/rakshathushetty/)
 
 ---
 
@@ -213,13 +214,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 Star ⭐ this repo to support the project and help others find it.
 Open an issue, suggest features, or contribute a video template!
 
----
-
-Let me know if you'd like me to:
-
-* Generate `.env.example`
-* Add Loom script / video
-* Create sample video files
-* Generate shields and insert your GitHub username
-
-All of this will complete your project polish for submission.
